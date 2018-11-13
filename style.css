@@ -1,0 +1,19 @@
+.carousel.inner img {
+    width:100%;
+    height:10000px;
+}
+
+body{
+  background-color: teal
+}
+
+#pageBody{
+  margin-top: 50px;
+  Background-color:orange;
+  height:100%;
+}
+
+#pageFooter{
+  margin-top:20px;
+  background-color:red;
+}
